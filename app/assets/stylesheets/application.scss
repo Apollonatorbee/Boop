@@ -1,4 +1,12 @@
 @import "bootstrap";
+
+.clear {
+  clear: both;
+}
+
+.my_headline_font_size {
+  font-size: 24px;
+}
 //= require jquery3
 //= require popper
 //= require bootstrap
